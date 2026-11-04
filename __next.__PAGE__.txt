@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:"./_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"./_next/static/chunks/042_62b1a3rku.js"
+9:I[3411,["$2","$8"],"SiteHeader"]
+a:I[73358,["$2","$8"],"VideoStage"]
+b:"ConnectedHubHero"
+c:I[25888,["$2","$8"],"$b"]
+d:I[4927,["$2","$8"],"ChaosSection"]
+e:"OperationLineSection"
+f:I[25376,["$2","$8"],"$e"]
+10:I[26570,["$2","$8"],"AppStackSection"]
+11:I[44219,["$2","$8"],"HubMergeScene"]
+12:I[95638,["$2","$8"],"ModuleExplorer"]
+13:I[88242,["$2","$8"],"DashboardDemo"]
+14:I[13739,["$2","$8"],"ProcessSection"]
+15:I[50947,["$2","$8"],"AudienceSection"]
+16:I[45710,["$2","$8"],"OfferSection"]
+17:I[2084,["$2","$8"],"FaqSection"]
+18:I[38301,["$2","$8"],"FinalCTA"]
+21:"ViewportBoundary"
+22:I[97367,["$2"],"$21"]
+23:"MetadataBoundary"
+24:I[97367,["$2"],"$23"]
+25:"$Sreact.suspense"
+26:I[27201,["$2"],"IconMark"]
+:HL["./_next/static/chunks/1t4fvekuncdys.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L9",null,{}],["$","main",null,{"children":[["$","$La",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}],["$","$L16",null,{}],["$","$L17",null,{}],["$","$L18",null,{}]]}],["$","footer",null,{"data-hide-sticky":true,"className":"border-t border-white/10 bg-ink pb-[calc(env(safe-area-inset-bottom)+32px)] pt-12 text-mute-dark","children":[["$","div",null,{"className":"mx-auto flex max-w-7xl flex-col gap-8 px-5 sm:px-8 md:flex-row md:items-center md:justify-between","children":[["$","div",null,{"children":[["$","span",null,{"className":"inline-flex items-center gap-2 ","children":[["$","svg",null,{"viewBox":"0 0 200 220","className":"h-8 w-[29px]","aria-hidden":true,"focusable":"false","children":[["$","g",null,{"stroke":"#6114B8","strokeWidth":9,"strokeLinecap":"butt","fill":"none","children":[[["$","line","e01",{"className":"lm-line","pathLength":1,"x1":100,"y1":30,"x2":169.3,"y2":70}],["$","line","e12",{"className":"lm-line","pathLength":1,"x1":169.3,"y1":70,"x2":169.3,"y2":150}],["$","line","e23",{"className":"lm-line","pathLength":1,"x1":169.3,"y1":150,"x2":100,"y2":190}],["$","line","e34",{"className":"lm-line","pathLength":1,"x1":100,"y1":190,"x2":30.7,"y2":150}],["$","line","e45",{"className":"lm-line","pathLength":1,"x1":30.7,"y1":150,"x2":30.7,"y2":70}],["$","line","e50",{"className":"lm-line","pathLength":1,"x1":30.7,"y1":70,"x2":100,"y2":30}]],[["$","line","s0",{"className":"lm-line lm-spoke","pathLength":1,"x1":100,"y1":110,"x2":100,"y2":30}],["$","line","s3",{"className":"lm-line lm-spoke","pathLength":1,"x1":100,"y1":110,"x2":100,"y2":190}],["$","line","s5",{"className":"lm-line lm-spoke","pathLength":1,"x1":100,"y1":110,"x2":30.7,"y2":70}],["$","line","s1",{"className":"lm-line lm-spoke","pathLength":1,"x1":100,"y1":110,"x2":169.3,"y2":70}]]]}],[["$","circle","top",{"className":"lm-node","cx":100,"cy":30,"r":17,"fill":"#C17FFB","stroke":"#332340","strokeWidth":4}],["$","circle","upper-right",{"className":"lm-node","cx":169.3,"cy":70,"r":17,"fill":"#C17FFB","stroke":"#332340","strokeWidth":4}],["$","circle","lower-right",{"className":"lm-node","cx":169.3,"cy":150,"r":17,"fill":"#C17FFB","stroke":"#332340","strokeWidth":4}],["$","circle","bottom",{"className":"lm-node","cx":100,"cy":190,"r":17,"fill":"#C17FFB","stroke":"#332340","strokeWidth":4}],["$","circle","lower-left",{"className":"lm-node","cx":30.7,"cy":150,"r":17,"fill":"#C17FFB","stroke":"#332340","strokeWidth":4}],["$","circle","upper-left",{"className":"lm-node","cx":30.7,"cy":70,"r":17,"fill":"#C17FFB","stroke":"#332340","strokeWidth":4}]],["$","circle",null,{"className":"lm-core","cx":100,"cy":110,"r":21,"fill":"#6114B8","stroke":"#332340","strokeWidth":4}]]}],["$","span",null,{"className":"font-display leading-none tracking-[-0.03em] text-[1.35rem] text-white","children":[["$","span",null,{"className":"font-extrabold","children":"All"}],["$","span",null,{"className":"font-medium","children":" Hub"}]]}]]}],["$","p",null,{"className":"mt-3 text-sm","children":["Seus sistemas em um só lugar. Um produto da ","RC Soluções Digitais","."]}]]}],["$","nav",null,{"aria-label":"Links institucionais","className":"flex flex-wrap gap-x-6 gap-y-3 text-sm","children":["$L19","$L1a","$L1b"]}]]}],"$L1c"]}],"$L1d"],["$L1e"],"$L1f"]}],"p":"$@20","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"./_next/static/chunks/1t4fvekuncdys.css","precedence":"next"}],["$","script","script-0",{"src":"./_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"pt-BR","children":["$","body",null,{"children":[["$","a",null,{"href":"#conteudo","className":"sr-only z-[100] rounded-full bg-white px-5 py-3 font-semibold text-ink focus:not-sr-only focus:fixed focus:left-4 focus:top-4","children":"Pular para o conteúdo"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#332340"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L24",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"All Hub — Seus sistemas em um só lugar"}],["$","meta","1",{"name":"description","content":"Contas de marketplace, expedição, devoluções, equipe e lucro em uma plataforma feita para a sua operação. Agende uma reunião."}],["$","meta","2",{"name":"application-name","content":"All Hub"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://allhub.tech/"}],["$","meta","5",{"name":"format-detection","content":"telephone=no"}],["$","meta","6",{"property":"og:title","content":"All Hub — Seus sistemas em um só lugar"}],["$","meta","7",{"property":"og:description","content":"Contas de marketplace, expedição, devoluções, equipe e lucro em uma plataforma feita para a sua operação. Agende uma reunião."}],["$","meta","8",{"property":"og:site_name","content":"All Hub"}],["$","meta","9",{"property":"og:locale","content":"pt_BR"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"All Hub — Seus sistemas em um só lugar"}],["$","meta","13",{"name":"twitter:description","content":"Contas de marketplace, expedição, devoluções, equipe e lucro em uma plataforma feita para a sua operação. Agende uma reunião."}],["$","link","14",{"rel":"icon","href":"/icon.svg?icon.08jvwvx1f688n.svg","sizes":"any","type":"image/svg+xml"}],["$","$L26","15",{}]]}]}],null]}],null]}],"p":"$@27","v":null,"s":"$6"}},"a":"$@28","u":"$@29","b":"q1deiTkXnTByrqklrLpUU"}
+2a:I[24308,["$2","$8"],"StickyMobileCTA"]
+2b:I[97367,["$2"],"OutletBoundary"]
+19:["$","span",null,{"title":"Link a configurar","children":["Política de Privacidade"," (em breve)"]}]
+1a:["$","span",null,{"title":"Link a configurar","children":["Termos de Uso"," (em breve)"]}]
+1b:["$","a",null,{"href":"#reuniao","className":"hover:text-white","children":"Agendar reunião"}]
+1c:["$","p",null,{"className":"mx-auto mt-8 max-w-7xl px-5 text-xs sm:px-8","children":["© ",2026," ","RC Soluções Digitais",". Telas e números desta página são demonstrativos."]}]
+1d:["$","$L2a",null,{}]
+1e:["$","script","script-0",{"src":"./_next/static/chunks/042_62b1a3rku.js","async":true}]
+1f:["$","$L2b",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+6:300
+2c:null
+29:true
+6:C
+28:0
+5:"$undefined"
+27:"$undefined"
+20:"$undefined"
